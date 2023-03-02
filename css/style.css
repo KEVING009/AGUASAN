@@ -1,0 +1,21 @@
+
+.boton-calcular {
+    background-color: #4f7eff;
+    color: rgb(255, 255, 255);
+
+ }
+input{
+    border-radius: 2px;
+}
+option{
+    border-radius: 5px;
+}
+.form-group{
+    border-radius: 5px;
+    border-color: rgb(206, 212, 218);
+}
+
+h2{
+    margin-top: 50px;
+    margin-left: 50px;
+}
